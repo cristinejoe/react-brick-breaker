@@ -7,6 +7,7 @@ This project is an assignment for the bootcamp I am currently attending. It invo
 The game is a classic brick-breaker game where players control a paddle to bounce a ball and break bricks. The goal of this remake is not only to replicate the functionality of the original game but also to improve it by leveraging React's component-based architecture.
 
 Technologies
+
 - React
 - JavaScript
 - HTML5
